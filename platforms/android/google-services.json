@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883672622865",
+    "firebase_url": "https://pumpking-18665.firebaseio.com",
+    "project_id": "pumpking-18665",
+    "storage_bucket": "pumpking-18665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883672622865:android:45139f29b42944d9898eb0",
+        "android_client_info": {
+          "package_name": "com.pumpking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883672622865-2i43oms3q7l60f8asubkovp13p1rqn3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnuEU8j2zXq4NrxKM1eAYCY84soAqw1Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883672622865-2i43oms3q7l60f8asubkovp13p1rqn3s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883672622865-1f8anm8quc59tooq7sf8r7vv59scbk49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pumpking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
